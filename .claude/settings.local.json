@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__desktop-commander__write_file",
+      "mcp__desktop-commander__create_directory",
+      "mcp__playwright__browser_close",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__sequential-thinking__sequentialthinking",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_evaluate",
+      "mcp__desktop-commander__start_process",
+      "mcp__desktop-commander__edit_block",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}
